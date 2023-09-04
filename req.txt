@@ -1,0 +1,4 @@
+requests
+numpy
+rich
+gmpy2
